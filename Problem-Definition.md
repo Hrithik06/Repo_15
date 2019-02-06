@@ -21,7 +21,7 @@ Who is going to use this robot?|Establish objective|
 Where is this robot going to be used?|Establish objective|
 How much payload do you want it to carry?|Identify constraints|20-30gms.
 What is your budget?|Identify constraints|Not more than Rs. 4000.
-What should be the size of this robot?|Identify constraints|It should fit within 20cm*20cm*20cm.
+What should be the size of this robot?|Identify constraints|It should fit within 20cm * 20cm * 20cm.
 What should be the weight of this robot?|Identify constraints|
 What extra features do you want in the robot?|Establish functions|
 How do you want to control the robot?|Establish functions|
